@@ -1,19 +1,17 @@
-# Hi, I'm Krish 👋
+# Krish Raina
 
-Final-year B.Tech CSE student at SMVDU, focused on Data Science and Machine Learning. I build forecasting and optimization systems and like turning messy data into something useful.
+Computer Science & Engineering Undergraduate | AI/ML | Data Science
 
-## What I work on
-- Time-series forecasting (energy, PV generation, load)
-- Optimization with Genetic Algorithms and MILP
-- Data analysis and visualization
+I'm a B.Tech (Hons.) CSE student at Shri Mata Vaishno Devi University, interested in Machine Learning, Artificial Intelligence, and data-driven problem solving.
 
-## Featured projects
-- **[Energy Management System](https://github.com/Krish-raina57/energy-management-system-EMS)**: PV and load forecasting with stacking ensembles, plus battery scheduling using GA and MILP (7.54% simulated cost reduction).
-- **[Bitcoin Sentiment vs Trader Performance](https://github.com/Krish-raina57/PrimetradeAI-Data-Science-Internship)**: How Fear & Greed sentiment relates to Hyperliquid trader outcomes.
-- **[Web Scraping Tools Comparison](https://github.com/Krish-raina57/DATA-VISUALIZATION-WebScraping)**: Apify, ParseHub, Octoparse and more, with a Google Maps scraping workflow.
+### Technical Skills
+- **Languages:** Python, Java, SQL
+- **Machine Learning:** TensorFlow, LightGBM, XGBoost
+- **Tools:** Git, GitHub, MySQL, Jupyter Notebook, Power BI
 
-## Tech stack
-Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM · TensorFlow/Keras · SQL · Power BI · Git
+### Projects
+- Renewable Energy Management using ML & Genetic Algorithms
+- Household Energy Consumption Forecasting
+- AI-Based Multi-Drone Swarm for Search and Rescue
 
-## Contact
-[LinkedIn](https://linkedin.com/in/krish-raina) · krishraina8472@gmail.com
+
