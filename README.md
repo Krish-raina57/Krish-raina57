@@ -1,4 +1,4 @@
-# Krish Raina
+# Hi, I'm Krish Raina 👋
 
 Computer Science & Engineering Undergraduate | AI/ML | Data Science
 
